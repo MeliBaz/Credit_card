@@ -1,4 +1,3 @@
-
 class Covjek:
     def __init__(self, ime,prezime,jmbg):
         self.__ime=ime
